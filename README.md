@@ -18,7 +18,7 @@ To get started with the frontend application:
 
    ```bash
    git clone https://github.com/Harish3000/React-Springboot-Practicals
-   cd <repository-folder>/frontend
+   cd frontend
    ```
 
 2. Install dependencies:
@@ -68,7 +68,7 @@ To get started with the backend application:
 
    ```bash
    git clone https://github.com/Harish3000/React-Springboot-Practicals
-   cd <repository-folder>/backend
+   cd backend
    ```
 
 2. Ensure MongoDB is running.
